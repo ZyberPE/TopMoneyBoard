@@ -1,0 +1,18 @@
+name: TopMoneyLeaderboard
+version: 1.0.0
+api: 5.0.0
+
+main: TopMoneyLeaderboard\Main
+
+depend:
+  - EconomyAPI
+
+commands:
+  topmoneyleaderboard:
+    description: Top money leaderboard
+    usage: "/topmoneyleaderboard <create|remove>"
+    permission: topmoneyleaderboard.admin
+
+permissions:
+  topmoneyleaderboard.admin:
+    default: op
