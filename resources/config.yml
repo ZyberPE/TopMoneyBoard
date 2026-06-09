@@ -1,0 +1,20 @@
+update-interval: 60
+
+messages:
+  created: "&aLeaderboard created."
+  removed: "&cLeaderboard removed."
+  no-leaderboard: "&cNo leaderboard nearby."
+
+title: "&6&lTop Richest Players"
+
+lines:
+  - "&e#1 &f{player1} &7- &a${money1}"
+  - "&e#2 &f{player2} &7- &a${money2}"
+  - "&e#3 &f{player3} &7- &a${money3}"
+  - "&e#4 &f{player4} &7- &a${money4}"
+  - "&e#5 &f{player5} &7- &a${money5}"
+  - "&e#6 &f{player6} &7- &a${money6}"
+  - "&e#7 &f{player7} &7- &a${money7}"
+  - "&e#8 &f{player8} &7- &a${money8}"
+  - "&e#9 &f{player9} &7- &a${money9}"
+  - "&e#10 &f{player10} &7- &a${money10}"
